@@ -1,6 +1,7 @@
-Практическая работа 2
+PR_2
 
-Кудрявцев Никита Дмитриевич
+Шабанов Алексей Олегович
 
-![image](https://github.com/user-attachments/assets/0457d00e-902e-4868-9f88-503bcabeeef1)
 
+
+![screentask2](https://github.com/user-attachments/assets/eb6afd60-6e85-4d59-a0fa-9235cb4cc2ec)
